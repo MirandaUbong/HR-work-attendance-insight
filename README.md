@@ -1,5 +1,5 @@
 # HR-work-attendance-insight
-The objectives of this project was to:
+The objectives of this project was to visualize employee data using Power BI to:
 
 1.	Understand the working preference of people; between Work-from-Home and Work-from-Office.
 
